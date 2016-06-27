@@ -26,7 +26,7 @@
     "imagesloaded": "~3.1.8",
     "angular-ui-date": "~0.0.7",
     "topojson": "~1.6.19",
-    "ui-kit": "git@github.com:citizennet/ui-kit.git#master",
+    "ui-kit": "https://github.com/citizennet/ui-kit.git#master",
     "ng-context-menu": "~1.0.2",
     "cn-flex-form": "https://github.com/citizennet/cn-flex-form.git#master",
     "angular-hotkeys": "chieffancypants/angular-hotkeys#~1.6.0",
@@ -38,7 +38,7 @@
     "objectpath": "https://github.com/mike-marcacci/objectpath.git#1.1.0",
     "cn-datetimepicker": "https://github.com/citizennet/cn-datetimepicker.git#master",
     "ng-prettyjson": "~0.2.0",
-    "cn-ui": "git@github.com:citizennet/cn-ui.git#master"
+    "cn-ui": "https://github.com/citizennet/cn-ui.git#master"
   },
   "resolutions": {
     "angular": "1.4.0",
@@ -51,6 +51,6 @@
     "cn-util": "https://github.com/citizennet/cn-util.git#dev",
     "cn-datetimepicker": "https://github.com/citizennet/cn-datetimepicker.git#dev",
     "cn-flex-form": "https://github.com/citizennet/cn-flex-form.git#dev",
-    "cn-ui": "git@github.com:citizennet/cn-ui.git#dev"
+    "cn-ui": "https://github.com/citizennet/cn-ui.git#dev"
   }
 }
