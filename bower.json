@@ -26,7 +26,6 @@
     "imagesloaded": "~3.1.8",
     "angular-ui-date": "~0.0.7",
     "topojson": "~1.6.19",
-    "ui-kit": "https://github.com/citizennet/ui-kit.git#master",
     "ng-context-menu": "~1.0.2",
     "cn-flex-form": "https://github.com/citizennet/cn-flex-form.git#master",
     "angular-hotkeys": "chieffancypants/angular-hotkeys#~1.6.0",
